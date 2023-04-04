@@ -201,6 +201,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKMXNEDI
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Hefesto\Design Rule Check - Hefesto.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
